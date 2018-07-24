@@ -12,4 +12,7 @@ public class MainActivity extends AppCompatActivity {
 
         //Dev branch
     }
+
+
+    public void masterChange(){}
 }
